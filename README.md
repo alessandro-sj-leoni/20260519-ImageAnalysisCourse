@@ -1,2 +1,2 @@
 # 20260519-ImageAnalysisCourse
-repo for intro to image analysis workshop
+Test repo for intro to image analysis workshop (Cardiff May 2026).
